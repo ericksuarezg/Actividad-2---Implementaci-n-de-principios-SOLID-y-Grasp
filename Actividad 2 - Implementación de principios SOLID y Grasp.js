@@ -261,7 +261,7 @@ window.onload = function() {
     //=========================================================================================
 
 
-    /* Al incluir en la clase abstracta Car los métodos de una clase concreta, en este caso DeloRean, obligamos a que todas las
+    /* Al incluir en la clase abstracta Car los métodos de una clase concreta, en este caso 'carroMaquinaTiempo', obligamos a que todas las
      clases que implementan nuestra interfaz o clase abstracta también implementen esos métodos. */
 
     class Carro {
